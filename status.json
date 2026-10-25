@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"seq\":2,\"issuedAt\":\"2026-10-25T09:30:31.583Z\",\"minVersion\":null,\"blocked\":[],\"closed\":null,\"message\":null,\"features\":{},\"latest\":null,\"maxOfflineDays\":0}",
-  "sig": "mkCVRw/66uheduQq7GASpcUtHRHMqjsOj/kxkyNQSq3ZsHPHRqUTctNGM3TKRmT90TlmM+nhcAFvTlGrCTQDBA=="
+  "payload": "{\"v\":1,\"seq\":3,\"issuedAt\":\"2026-10-25T09:34:17.705Z\",\"minVersion\":null,\"blocked\":[],\"closed\":null,\"message\":{\"id\":\"m2\",\"text\":{\"ru\":\"ТЫ СИН ШЛУХИ\",\"en\":\"ТЫ СИН ШЛУХИ\"},\"url\":null,\"level\":\"info\",\"until\":null},\"features\":{},\"latest\":null,\"maxOfflineDays\":0}",
+  "sig": "RZHE+9/G2vjx1k8FtgyrHWu18KyJ1H0n3XsRaO5X+5LozlMJ5S3iiX/UYTfZMcgCDbaqdBEUVJmIL/YIHxxUBw=="
 }
