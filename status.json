@@ -1,0 +1,4 @@
+{
+  "payload": "{\"v\":1,\"seq\":1,\"issuedAt\":\"2026-10-25T09:24:26.265Z\",\"minVersion\":null,\"blocked\":[],\"closed\":null,\"message\":null,\"features\":{},\"latest\":null,\"maxOfflineDays\":0}",
+  "sig": "QlKbb7tmyDdq93FYNHzVNNIFsw7YxntzksEz3AjF/ZsJ64CEtjAD/SiFMOsI/hBLFtVrl45q1GO2UIyGhsjEDw=="
+}
